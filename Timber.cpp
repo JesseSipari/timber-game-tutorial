@@ -52,7 +52,7 @@ int main()
 	Texture textureCloud;
 
 	// Load 1 new texture
-	textureCloud.loadFromFile("graphics/cloud.png")
+	textureCloud.loadFromFile("graphics/cloud.png");
 
 	// 3 New sprites with the same texture
 	Sprite spriteCloud1;
